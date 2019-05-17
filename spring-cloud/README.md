@@ -74,7 +74,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第五节 高可用服务治理（HA Service Government）
+### [第五节 高可用服务治理（HA Service Government）](https://segmentfault.com/l/1500000011386082/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-5)） [[问答](https://segmentfault.com/l/1500000011386082/d/1560000012055816)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -88,8 +88,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 问答互动（10 分钟）
 
 
-
-### 第六节 负载均衡（Load Balance）
+### [第六节 负载均衡（Load Balance）](https://segmentfault.com/l/1500000011386110/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-6)） [[问答](https://segmentfault.com/l/1500000011386110/d/1560000012083922)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -103,7 +102,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第七节 Netflix Ribbon 源码解读
+### [第七节 Netflix Ribbon 源码解读](https://segmentfault.com/l/1500000011386180/play) （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-7)） [[问答](https://segmentfault.com/l/1500000011386180/d/1560000012135448)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -117,8 +116,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 问答互动（20分钟）
 
 
-
-### 第八节 服务短路（Circuit Breakers）
+### [第八节 服务短路（Circuit Breakers）](https://segmentfault.com/l/1500000011386237/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-8)） [[问答](https://segmentfault.com/l/1500000011386237/d/1560000012166896)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -130,7 +128,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第九节 Spring Cloud Hystrix 源码解读
+### [第九节 Spring Cloud Hystrix 源码解读](https://segmentfault.com/l/1500000011386273/play) （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-9)） [[问答](https://segmentfault.com/l/1500000011386273/d/1560000012218757)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -143,8 +141,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 问答互动（20分钟）
 
 
-
-### 第十节 服务调用（Service Call）
+### [第十节 服务调用（Service Call）](https://segmentfault.com/l/1500000011386274/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-10)） [[问答](https://segmentfault.com/l/1500000011386274/d/1560000012262189)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -156,7 +153,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（10分钟）
 
-### 第十一节 Spring Cloud 服务网关
+### [第十一节 Spring Cloud 服务网关](https://segmentfault.com/l/1500000011386451/play) （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-11)） [[问答](https://segmentfault.com/l/1500000011386451/d/1560000012313789)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -167,7 +164,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（20分钟）
 
-### 第十二节 消息驱动整合
+### [第十二节 消息驱动整合](https://segmentfault.com/l/1500000011386642/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-12)） [[问答](https://segmentfault.com/l/1500000011386642/d/1560000012379660)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 * 课程内容（1.5 小时）
@@ -177,7 +174,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（20分钟）
 
-### 第十三节 Spring Cloud Stream Binder 实现
+### [第十三节 Spring Cloud Stream Binder 实现](https://segmentfault.com/l/1500000011386655/play) （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-13)） [[问答](https://segmentfault.com/l/1500000011386655/d/1560000012412646)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -186,7 +183,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（20分钟）
 
-### 第十四节 消息总线
+### [第十四节 消息总线](https://segmentfault.com/l/1500000011386685/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-14)） [[问答](https://segmentfault.com/l/1500000011386685/d/1560000012462337)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -198,7 +195,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（20分钟）
 
-### 第十五节 分布式应用跟踪
+### [第十五节 分布式应用跟踪](https://segmentfault.com/l/1500000011386721/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-15)) [[问答](https://segmentfault.com/l/1500000011386721/d/1560000012512486)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -209,7 +206,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（20分钟）
 
-### 第十六节 Spring Cloud 系列回顾
+### [第十六节 Spring Cloud 系列回顾](https://segmentfault.com/l/1500000011386751/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-16)) [[问答](https://segmentfault.com/l/1500000011386751/d/1560000012555975)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
